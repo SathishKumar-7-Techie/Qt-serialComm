@@ -1,0 +1,2 @@
+# Qt-serialComm
+Developers may use this tool for taking embedded device logs and can save it locally for reference.its like minicom but with GUI based tool. you need to connect your device wit TTL board/Debugger board to ubuntu machine. once connected it will auto detect he serial port.This tool supports 115200 baud rate and can be harcoded in source code.
